@@ -1,6 +1,6 @@
-# Active, Semi-Active, and Passive Control Project
+# Fuzzy Logic-Based Vibration Control of SDOF Structures with MR Dampers and Actuators:
 ## Overview
-In this project, I designed and implemented a Fuzzy Inference System (FIS) in MATLAB for vibration control using Magnetorheological (MR) dampers. Additionally, I conducted numerical simulations to optimize actuator parameters for vibration reduction in a Single Degree of Freedom (SDOF) system. My work involved comparing the performance of passive, semi-active, and active control systems, including MR dampers and actuators. This experience aligns with job requirements, particularly in structural dynamics and numerical modelling.
+   In this project, I designed and implemented a Fuzzy Inference System (FIS) in MATLAB for vibration control using a Magnetorheological (MR) damper(using the modified bouc wen model) and an actuator. I compared the performance of passive, semi-active, and active control systems for single-degree-of-freedom (SDOF) structures. I used MATLAB and Simulink to simulate the model. This project required an understanding of vibration and control principles to model the dynamics and interactions of the structure and the controller.
 
 ## Repository Structure
 The repository contains the following files and directories:
