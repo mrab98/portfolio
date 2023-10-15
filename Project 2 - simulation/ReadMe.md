@@ -10,7 +10,9 @@ by fine-tune these parameters to best fit the observed data. The careful
 modelling of different physical properties and the optimization process required
 skills in numerical modelling and knowledge of physics behind the test.
 # Folder description:
-    simulation in comsol.mpg: the COMSOL simulation file
-    DiffDamageLoc.gif: The results animation of the simulation
+## simulation in comsol.mpg:
+the COMSOL simulation file
+##DiffDamageLoc.gif:
+The results animation of the simulation
 
   
