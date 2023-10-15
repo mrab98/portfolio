@@ -1,0 +1,8 @@
+ frame               
+
+
+ NPOIN =    3   NELEM =    2   NBOUN =    2   NMATS =    1   NPROP =    4   NNODE =    2   NDOFN =    3   NDIME =    2   NSTRE =    1   TOTAL TIME=  3.00   DELTA T=  0.50
+MATERIAL PROPERTIES
+             1.00000             2.00000             1.00000             2.00000
+ELEMENT     NODES                  MAT
+         1         0         0         2

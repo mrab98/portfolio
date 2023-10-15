@@ -1,0 +1,35 @@
+ TRUSS_ANALISYS      
+
+
+ NPOIN =    3   NELEM =    2   NBOUN =    2   NMATS =    1   NPROP =    4   NNODE =    2   NDOFN =    2   NDIME =    2   NSTRE =    1   TOTAL TIME=  5.00   DELTA T=  1.00
+MATERIAL PROPERTIES
+       2000000.00000             0.50000         20000.00000          8000.00000
+ELEMENT     NODES                  MAT
+         1         1         2         1
+         2         3         2         1
+     NODE     COORD
+         1        0.00000        0.00000
+         2        5.00000        5.00000
+         3       10.00000        0.00000
+ RESTRAINED NODES,FIXITY CODE AND PRESCRIBED VALUES
+         1    1    0.00000    1    0.00000
+         3    1    0.00000    1    0.00000
+     NODE     X FREQUENCY     Y FREQUENCY   X AMPLITUDE   Y AMPLITUDE
+     2            10.00000      0.00000      0.50000      0.00000
+     3             0.00000      0.00000      0.00000      0.00000
+TIME   NUMBER OF DOF:   DISPLACEMENT(U(X))
+  1.00|     3          |    -0.1840E-05
+  1.00|     4          |     0.0000E+00
+      |                |
+  2.00|     3          |    -0.1720E-05
+  2.00|     4          |     0.0000E+00
+      |                |
+  3.00|     3          |     0.2943E-05
+  3.00|     4          |     0.0000E+00
+      |                |
+  4.00|     3          |    -0.4349E-07
+  4.00|     4          |     0.0000E+00
+      |                |
+  5.00|     3          |    -0.3100E-05
+  5.00|     4          |     0.0000E+00
+      |                |

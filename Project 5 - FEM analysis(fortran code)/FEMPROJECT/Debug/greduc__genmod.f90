@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Mon Feb 22 01:04:27 2021
+        MODULE GREDUC__genmod
+          INTERFACE 
+            SUBROUTINE GREDUC
+            END SUBROUTINE GREDUC
+          END INTERFACE 
+        END MODULE GREDUC__genmod

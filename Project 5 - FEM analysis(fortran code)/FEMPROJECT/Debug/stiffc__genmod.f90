@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Mon Feb 22 01:04:27 2021
+        MODULE STIFFC__genmod
+          INTERFACE 
+            SUBROUTINE STIFFC
+            END SUBROUTINE STIFFC
+          END INTERFACE 
+        END MODULE STIFFC__genmod

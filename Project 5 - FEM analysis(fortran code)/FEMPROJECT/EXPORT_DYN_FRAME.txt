@@ -1,0 +1,44 @@
+ frame               
+
+
+ NPOIN =    3   NELEM =    2   NBOUN =    2   NMATS =    1   NPROP =    4   NNODE =    2   NDOFN =    3   NDIME =    2   NSTRE =    1   TOTAL TIME=  3.00   DELTA T=  0.50
+MATERIAL PROPERTIES
+    2000000000.00000             0.09000             0.00068          2400.00000
+ELEMENT     NODES                  MAT
+         1         1         2         1
+         2         2         3         1
+     NODE     COORD
+         1        0.00000        0.00000
+         2        0.00000        2.00000
+         3        0.00000        4.00000
+ RESTRAINED NODES,FIXITY CODE AND PRESCRIBED VALUES
+         1    1    0.00000    1    0.00000    1    0.00000
+         3    1    0.00000    1    0.00000    1    0.00000
+     NODE     X FREQUENCY     Y FREQUENCY   TETHA FREQUENCY   X AMPLITUDE   Y AMPLITUDETETHA AMPLITUDE
+     2             2.00000      0.00000      0.00000     10.00000      0.00000      0.00000
+     3             0.00000      0.00000      0.00000      0.00000      0.00000      0.00000
+TIME   NUMBER OF DOF:   DISPLACEMENT(U(X))
+  0.50|     4          |     0.2012E-05
+  0.50|     5          |     0.0000E+00
+  0.50|     6          |     0.0000E+00
+      |                |
+  1.00|     4          |     0.2306E-05
+  1.00|     5          |     0.0000E+00
+  1.00|     6          |     0.0000E+00
+      |                |
+  1.50|     4          |     0.3468E-06
+  1.50|     5          |     0.0000E+00
+  1.50|     6          |     0.0000E+00
+      |                |
+  2.00|     4          |    -0.1798E-05
+  2.00|     5          |     0.0000E+00
+  2.00|     6          |     0.0000E+00
+      |                |
+  2.50|     4          |    -0.2423E-05
+  2.50|     5          |     0.0000E+00
+  2.50|     6          |     0.0000E+00
+      |                |
+  3.00|     4          |    -0.6879E-06
+  3.00|     5          |     0.0000E+00
+  3.00|     6          |     0.0000E+00
+      |                |

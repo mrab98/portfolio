@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Mon Feb 22 01:04:27 2021
+        MODULE STIFF_1D__genmod
+          INTERFACE 
+            SUBROUTINE STIFF_1D
+            END SUBROUTINE STIFF_1D
+          END INTERFACE 
+        END MODULE STIFF_1D__genmod

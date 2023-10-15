@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Mon Feb 22 01:04:27 2021
+        MODULE LOADB_FRAME__genmod
+          INTERFACE 
+            SUBROUTINE LOADB_FRAME
+              USE FEM6
+            END SUBROUTINE LOADB_FRAME
+          END INTERFACE 
+        END MODULE LOADB_FRAME__genmod

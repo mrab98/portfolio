@@ -1,0 +1,47 @@
+ AliKhodaei
+
+
+ NPOIN =    3   NELEM =    2   NBOUN =    2   NMATS =    1   NPROP =    3
+
+ NNODE =    2   NDOFN =    3   NDIME =    2   NSTRE =    1   NCASE =    1
+MATERIAL PROPERTIES
+       2000000.00000            80.00000         20000.00000
+0  ELEMENT   NODES    MAT.
+      1      1    2    1
+      2      2    3    1
+     NODE     COORD
+         1        0.00000        0.00000
+         2      600.00000      800.00000
+         3     1500.00000      800.00000
+ RESTRAINED NODES,FIXITY CODE AND PRESCRIBED VALUES
+         1    1    0.00000    1    0.00000
+    1    0.00000
+         3    1    0.00000    1    0.00000
+    1    0.00000
+       NODE       LOADS
+         3        0.00000        0.00000
+         0
+       ELEMENT    DISTRIBUTED LOADS(X,Y,M)                    POINT LOADS(X-DX,Y-DY,M-DM)
+         1        0.00000        0.00000        0.00000        0.00000        0.00000   -10000.00000      200.00000        0.00000        0.00000
+         2        0.00000      -20.00000        0.00000        0.00000        0.00000        0.00000        0.00000        0.00000        0.00000
+     NODE DISPLACEMENTS      REACTIONS
+         1
+  0.000000E+00  0.000000E+00  0.000000E+00
+  0.158009E+03
+  0.140243E+05
+  0.106489E+07
+         2
+  0.458888E-01 -0.122809E+00 -0.302005E-02
+  0.000000E+00
+  0.000000E+00
+  0.000000E+00
+         3
+  0.000000E+00  0.000000E+00  0.000000E+00
+ -0.815801E+04
+  0.997569E+04
+ -0.165484E+07
+ ELEMENT      STRESSES
+         1
+         0
+         2
+         0
