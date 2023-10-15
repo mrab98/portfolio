@@ -12,7 +12,7 @@ skills in numerical modelling and knowledge of physics behind the test.
 # Folder description:
 ## simulation in comsol.mpg:
 the COMSOL simulation file
-##DiffDamageLoc.gif:
+## DiffDamageLoc.gif:
 The results animation of the simulation
 
   
