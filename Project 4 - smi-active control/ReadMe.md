@@ -1,5 +1,5 @@
-#Active, Semi-Active, and Passive Control Project
-##Overview
+# Active, Semi-Active, and Passive Control Project
+## Overview
 In this project, I designed and implemented a Fuzzy Inference System (FIS) in MATLAB for vibration control using Magnetorheological (MR) dampers. Additionally, I conducted numerical simulations to optimize actuator parameters for vibration reduction in a Single Degree of Freedom (SDOF) system. My work involved comparing the performance of passive, semi-active, and active control systems, including MR dampers and actuators. This experience aligns with job requirements, particularly in structural dynamics and numerical modelling.
 
 Repository Structure
