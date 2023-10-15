@@ -8,7 +8,7 @@ Project 2: Numerical Simulation and Model Updating
     damping and elasticity modulus of the steel structure in the numerical model 
     by fine-tune these parameters to best fit the observed data. The careful 
     modelling of different physical properties and the optimization process required
-  skills in numerical modelling and knowledge of physics behind the test.
+    skills in numerical modelling and knowledge of physics behind the test.
 # Folder description:
     simulation in comsol.mpg: the COMSOL simulation file
     DiffDamageLoc.gif: The results animation of the simulation
